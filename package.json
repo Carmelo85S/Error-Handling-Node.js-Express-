@@ -1,0 +1,21 @@
+{
+  "name": "ex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carmelo85S/Error-Handling-Node.js-Express-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carmelo85S/Error-Handling-Node.js-Express-/issues"
+  },
+  "homepage": "https://github.com/Carmelo85S/Error-Handling-Node.js-Express-#readme",
+  "description": ""
+}
