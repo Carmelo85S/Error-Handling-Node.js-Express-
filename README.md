@@ -68,6 +68,7 @@ The promise in getReservation is rejected.
 The error is caught by the catch block in the route handler.
 The error is passed to the error-handling middleware via next(error).
 The error-handling middleware sends a 500 response with the appropriate error message.
+
 Final Notes
 This app demonstrates two approaches to handling asynchronous operations and errors in Node.js: callbacks (for createReservation) and promises (for getReservation). Express is used to handle API routes, with error-handling middleware ensuring graceful error responses.
 
